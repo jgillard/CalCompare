@@ -1,0 +1,4 @@
+$ cat .gitignore
+
+# Ignore specific files
+.calURLs.txt
